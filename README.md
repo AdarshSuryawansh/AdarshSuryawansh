@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdarshSuryawansh](https://github.com/AdarshSuryawansh)
+- 👨‍💻 All of my projects are available at [https://github.com/AdarshSuryawansh](https://github.com/AdarshSuryawansh?tab=repositories)
 
 - 💬 Ask me about **Data Cleaning and Preparation, Data Visualization**
 
